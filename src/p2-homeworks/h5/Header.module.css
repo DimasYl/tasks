@@ -1,0 +1,18 @@
+.button {
+    margin-top: 5px;
+    width: 15px;
+    height: 15px;
+    background-color: #9c7272;
+}
+.container {
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.container2 {
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    left: -250px;
+}
