@@ -1,6 +1,6 @@
 import React from 'react'
 
-function JuniorPlus() {
+const JuniorPlus:React.FC = () => {
     return (
         <div>
             JuniorPlus

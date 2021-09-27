@@ -4,10 +4,12 @@
     height: 15px;
     background-color: #9c7272;
 }
+
 .link {
     text-decoration: none;
 
 }
+
 .header {
     width: 220px;
     display: flex;

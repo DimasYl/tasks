@@ -1,0 +1,7 @@
+.span {
+    display: inline-block;
+    height: 33px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: cornflowerblue;
+}

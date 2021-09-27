@@ -1,11 +1,9 @@
 import React from 'react'
 
-function Junior() {
-    return (
-        <div>
-            Junior
-        </div>
-    )
-}
+const Junior:React.FC = () => (
+    <div>
+        Junior
+    </div>
+);
 
 export default Junior
