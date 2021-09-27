@@ -1,18 +1,23 @@
-.button {
+.square {
     margin-top: 5px;
     width: 15px;
     height: 15px;
     background-color: #9c7272;
 }
-.container {
-    width: 300px;
-    display: flex;
-    justify-content: space-evenly;
+.link {
+    text-decoration: none;
+
 }
-.container2 {
-    width: 300px;
+.header {
+    width: 220px;
     display: flex;
-    justify-content: space-evenly;
-    position: relative;
-    left: -250px;
+    flex-direction: row;
+    justify-content: space-between;
+    transition-duration: 1000ms;
+    transform: translate(-200px);
+}
+
+.header:hover {
+    transition-duration: 1000ms;
+    transform: translate(0);
 }
